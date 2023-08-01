@@ -1,3 +1,12 @@
 body{
-    background-color:rgb(193, 122, 221)
+    background-color:rgb(157, 186, 206)
+}
+header{
+    /*cor de fundo*/
+    background-color:rgb(198, 132, 218);
+    /*cor de texto*/
+    color: rgb(253, 253, 253);
+    /*alinhamento do texyo*/
+    text-align: center;
+    padding: 20px;
 }
