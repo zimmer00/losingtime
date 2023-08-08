@@ -9,4 +9,12 @@ header{
     /*alinhamento do texyo*/
     text-align: center;
     padding: 20px;
+
+}
+
+E.container{
+    display: flex;
+    border-style: solid;
+    border-color:blueviolet
+
 }
