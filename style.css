@@ -18,3 +18,20 @@ E.container{
     border-color:blueviolet
 
 }
+
+E.texto{
+    flex:1;
+    padding:15%
+    text-align: left;
+
+}
+
+E.imagem{
+    flex: 2;
+    text-align: center;
+    padding: 5%;
+
+
+
+
+}
