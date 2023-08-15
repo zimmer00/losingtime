@@ -27,6 +27,8 @@ E.texto{
 }
 
 E.imagem{
+    display: flex;
+    justify-content: center;
     flex: 2;
     text-align: center;
     padding: 5%;
