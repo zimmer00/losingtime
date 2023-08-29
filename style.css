@@ -1,6 +1,7 @@
 body{
     background-color:rgb(157, 186, 206)
 }
+img {width: 500px;}
 header{
     /*cor de fundo*/
     background-color:rgb(198, 132, 218);
