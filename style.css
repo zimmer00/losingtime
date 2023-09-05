@@ -51,3 +51,12 @@ E.imagem{
     text-align: center;
     padding: 5%;
 }
+nav{
+    background-color: rgb(193, 77, 228);
+    text-align: center;  
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+    
+}
