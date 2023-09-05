@@ -30,7 +30,7 @@ a{
     transition: color 0.3s ease;
 
 }
-E.container{
+.container{
     display: flex;
     border-style: solid;
     border-color:rgb(0, 0, 0)
@@ -44,7 +44,7 @@ E.texto{
 
 }
 
-E.imagem{
+.imagem{
     display: flex;
     justify-content: center;
     flex: 2;
