@@ -53,7 +53,9 @@ a{
 }
 nav{
     background-color: rgb(193, 77, 228);
+    color: aliceblue;
     text-align: center;  
+    margin: 0%;
 }
 nav ul{
     list-style: none;
