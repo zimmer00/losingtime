@@ -86,3 +86,8 @@ nav a:hover{
     line-height: 2.0;
     margin-top: 10px;
 }
+.sobre-lista{
+    list-style: lower-greek;
+    padding-left: 0;
+    margin-top: 15px;
+}
