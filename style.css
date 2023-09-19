@@ -74,3 +74,15 @@ nav a{
 nav a:hover{
     color: aquamarine;
 }
+.sobre-titulo{
+    font-size: 32px;
+    color: blueviolet;
+    margin-bottom: 50px;
+
+}
+.sobre-texto{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 2.0;
+    margin-top: 10px;
+}
