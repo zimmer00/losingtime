@@ -3,3 +3,32 @@ h2{
     margin-top: 30px;
     color: blueviolet;
 }
+.form-group{
+    margin-bottom: 15px;
+}
+label{
+    display:block;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: blueviolet;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgb(90, 63, 141);
+    border-radius: 5px;
+    font-size: 16px;
+}
+input[type="submit"]{
+    background-color: blue;
+    color: aquamarine;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+input[type=]
