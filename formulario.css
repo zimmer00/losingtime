@@ -31,4 +31,5 @@ input[type="submit"]{
     font-size: 18px;
     transition: background-color 0.3s;
 }
-input[type=]
+input[type="submit"]: :hover
+{ background-color #00b321}

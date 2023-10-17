@@ -22,9 +22,18 @@
                 <input type="password" id="senha" name="senha" required>
             </div>
             <div class="form-group">
-                <input type="submit" value="Enviar">
+                <input type="submit" value="Enviar" id="botaoEnviar">
             </div>
         </form>
     </div>
+    <script>
+        document.getElementById("botaoEnviar").addEventListener(
+            "click",
+            function() {
+                alert("Formulário enviado com sucesso!");
+            }
+        );
+    
+    </script>
 </body>
 </html>
